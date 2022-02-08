@@ -3,9 +3,9 @@ export const palette = {
   white: "#ffffff",
   offWhite: "#e6e6e6",
   orange: "#FBA928",
-  orangeDarker: "#EB9918",
-  lightGrey: "#939AA4",
+  blur: "#86ACB6",
+  darkBlue: "#317A8D",
   lighterGrey: "#CDD4DA",
-  angry: "#dd3333",
-  deepPurple: "#5D2555",
+  angry: "#FF5733",
+  lightBlue: "#54D5F7",
 }

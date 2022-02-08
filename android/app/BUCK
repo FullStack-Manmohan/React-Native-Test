@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.mytsproject",
+    package = "com.reacttest",
 )
 
 android_resource(
     name = "res",
-    package = "com.mytsproject",
+    package = "com.reacttest",
     res = "src/main/res",
 )
 

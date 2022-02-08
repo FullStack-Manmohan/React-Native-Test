@@ -31,7 +31,6 @@ export const color = {
   /**
    * The main tinting color, but darker.
    */
-  primaryDarker: palette.orangeDarker,
   /**
    * A subtle color used for borders and lines.
    */
@@ -43,7 +42,6 @@ export const color = {
   /**
    * Secondary information.
    */
-  dim: palette.lightGrey,
   /**
    * Error messages and icons.
    */
